@@ -1,0 +1,2 @@
+# kaggle
+Note for competitions
